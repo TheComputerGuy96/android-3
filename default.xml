@@ -504,5 +504,5 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
   <include name="snippets/mokee.xml" />
-
+  <include name="snippets/kyleprods.xml" />
 </manifest>
